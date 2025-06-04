@@ -52,8 +52,8 @@ main{
 .produto{
     width: 200px;
     height: 400px;
-    margin: 10px;
-    padding: 10px;
+    margin: 9px;
+    padding: 8px;
     border: 1px solid #1F2937;
     border-radius: 20px;
     background: #fff;
@@ -66,7 +66,7 @@ main{
 }
 .preco{
     font-weight: 700;
-    margin-top: 50px;
+    margin-top: 45px;
     text-align: center;
     color:#1F2937;
     font-size: 1.7rem;
